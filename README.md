@@ -1,5 +1,5 @@
 # GYM
 This website is about gym 
-created by
-React 
+React used 
+
 # https://joseph625.github.io/GYM/#/
