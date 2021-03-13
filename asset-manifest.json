@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GYM/static/css/main.cffeaf33.chunk.css",
+    "main.css": "/GYM/static/css/main.f1020617.chunk.css",
     "main.js": "/GYM/static/js/main.5fd097ca.chunk.js",
     "main.js.map": "/GYM/static/js/main.5fd097ca.chunk.js.map",
     "runtime-main.js": "/GYM/static/js/runtime-main.c34a8ba3.js",
@@ -8,13 +8,13 @@
     "static/js/2.70f29617.chunk.js": "/GYM/static/js/2.70f29617.chunk.js",
     "static/js/2.70f29617.chunk.js.map": "/GYM/static/js/2.70f29617.chunk.js.map",
     "index.html": "/GYM/index.html",
-    "static/css/main.cffeaf33.chunk.css.map": "/GYM/static/css/main.cffeaf33.chunk.css.map",
+    "static/css/main.f1020617.chunk.css.map": "/GYM/static/css/main.f1020617.chunk.css.map",
     "static/js/2.70f29617.chunk.js.LICENSE.txt": "/GYM/static/js/2.70f29617.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c34a8ba3.js",
     "static/js/2.70f29617.chunk.js",
-    "static/css/main.cffeaf33.chunk.css",
+    "static/css/main.f1020617.chunk.css",
     "static/js/main.5fd097ca.chunk.js"
   ]
 }
